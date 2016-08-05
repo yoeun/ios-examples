@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F950A5C11D542A4200C57840 /* KeyHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F950A5C01D542A4200C57840 /* KeyHelper.swift */; };
+		F950A5C31D542CF900C57840 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = F950A5C21D542CF900C57840 /* Keys.plist */; };
 		F9B20AFD1D4E985D006CB81E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20AFC1D4E985D006CB81E /* AppDelegate.swift */; };
 		F9B20B001D4E985D006CB81E /* ios_experiments.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F9B20AFE1D4E985D006CB81E /* ios_experiments.xcdatamodeld */; };
 		F9B20B021D4E985D006CB81E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B011D4E985D006CB81E /* MainViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F950A5C01D542A4200C57840 /* KeyHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyHelper.swift; sourceTree = "<group>"; };
+		F950A5C21D542CF900C57840 /* Keys.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
 		F9B20AF91D4E985D006CB81E /* ios-experiments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-experiments.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B20AFC1D4E985D006CB81E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9B20AFF1D4E985D006CB81E /* ios_experiments.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ios_experiments.xcdatamodel; sourceTree = "<group>"; };
@@ -90,6 +94,7 @@
 		F94EA0951D4E9B2F0072243D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F950A5C21D542CF900C57840 /* Keys.plist */,
 				F9B20B081D4E985D006CB81E /* Assets.xcassets */,
 				F9B20B0D1D4E985D006CB81E /* Info.plist */,
 				F9B20AFE1D4E985D006CB81E /* ios_experiments.xcdatamodeld */,
@@ -133,6 +138,7 @@
 				F94EA0961D4E9B4B0072243D /* Controllers */,
 				F94EA0941D4E9B0F0072243D /* Views */,
 				F94EA0951D4E9B2F0072243D /* Supporting Files */,
+				F950A5C01D542A4200C57840 /* KeyHelper.swift */,
 			);
 			path = "ios-experiments";
 			sourceTree = "<group>";
@@ -262,6 +268,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F950A5C31D542CF900C57840 /* Keys.plist in Resources */,
 				F9B20B0C1D4E985D006CB81E /* LaunchScreen.storyboard in Resources */,
 				F9B20B091D4E985D006CB81E /* Assets.xcassets in Resources */,
 				F9B20B071D4E985D006CB81E /* Main.storyboard in Resources */,
@@ -290,6 +297,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9B20B001D4E985D006CB81E /* ios_experiments.xcdatamodeld in Sources */,
+				F950A5C11D542A4200C57840 /* KeyHelper.swift in Sources */,
 				F9B20AFD1D4E985D006CB81E /* AppDelegate.swift in Sources */,
 				F9B20B021D4E985D006CB81E /* MainViewController.swift in Sources */,
 				F9B20B041D4E985D006CB81E /* HeartRateViewController.swift in Sources */,

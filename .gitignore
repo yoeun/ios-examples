@@ -1,6 +1,8 @@
 # OS X
 .DS_Store
 
+# Keys
+Keys.plist
 
 # Xcode
 #
