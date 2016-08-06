@@ -1,6 +1,6 @@
 //
 //  DetailViewController.swift
-//  ios-experiments
+//  ios-examples
 //
 //  Created by Yoeun Pen on 7/31/16.
 //  Copyright © 2016 Yoeun Pen. All rights reserved.

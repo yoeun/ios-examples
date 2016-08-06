@@ -1,15 +1,15 @@
 //
-//  ios_experimentsTests.swift
-//  ios-experimentsTests
+//  ios_examplesTests.swift
+//  ios-examplesTests
 //
 //  Created by Yoeun Pen on 7/31/16.
 //  Copyright © 2016 Yoeun Pen. All rights reserved.
 //
 
 import XCTest
-@testable import ios_experiments
+@testable import ios_examples
 
-class ios_experimentsTests: XCTestCase {
+class ios_examplesTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

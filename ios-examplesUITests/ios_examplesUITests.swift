@@ -1,6 +1,6 @@
 //
-//  ios_experimentsUITests.swift
-//  ios-experimentsUITests
+//  ios_examplesUITests.swift
+//  ios-examplesUITests
 //
 //  Created by Yoeun Pen on 7/31/16.
 //  Copyright © 2016 Yoeun Pen. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ios_experimentsUITests: XCTestCase {
+class ios_examplesUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

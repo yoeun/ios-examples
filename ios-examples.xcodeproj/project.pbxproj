@@ -10,14 +10,14 @@
 		F950A5C11D542A4200C57840 /* KeyHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F950A5C01D542A4200C57840 /* KeyHelper.swift */; };
 		F950A5C31D542CF900C57840 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = F950A5C21D542CF900C57840 /* Keys.plist */; };
 		F9B20AFD1D4E985D006CB81E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20AFC1D4E985D006CB81E /* AppDelegate.swift */; };
-		F9B20B001D4E985D006CB81E /* ios_experiments.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F9B20AFE1D4E985D006CB81E /* ios_experiments.xcdatamodeld */; };
+		F9B20B001D4E985D006CB81E /* ios_examples.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F9B20AFE1D4E985D006CB81E /* ios_examples.xcdatamodeld */; };
 		F9B20B021D4E985D006CB81E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B011D4E985D006CB81E /* MainViewController.swift */; };
 		F9B20B041D4E985D006CB81E /* HeartRateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B031D4E985D006CB81E /* HeartRateViewController.swift */; };
 		F9B20B071D4E985D006CB81E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9B20B051D4E985D006CB81E /* Main.storyboard */; };
 		F9B20B091D4E985D006CB81E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9B20B081D4E985D006CB81E /* Assets.xcassets */; };
 		F9B20B0C1D4E985D006CB81E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9B20B0A1D4E985D006CB81E /* LaunchScreen.storyboard */; };
-		F9B20B171D4E985D006CB81E /* ios_experimentsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B161D4E985D006CB81E /* ios_experimentsTests.swift */; };
-		F9B20B221D4E985D006CB81E /* ios_experimentsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B211D4E985D006CB81E /* ios_experimentsUITests.swift */; };
+		F9B20B171D4E985D006CB81E /* ios_examplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B161D4E985D006CB81E /* ios_examplesTests.swift */; };
+		F9B20B221D4E985D006CB81E /* ios_examplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B20B211D4E985D006CB81E /* ios_examplesUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,34 +26,34 @@
 			containerPortal = F9B20AF11D4E985D006CB81E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F9B20AF81D4E985D006CB81E;
-			remoteInfo = "ios-experiments";
+			remoteInfo = "ios-examples";
 		};
 		F9B20B1E1D4E985D006CB81E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = F9B20AF11D4E985D006CB81E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F9B20AF81D4E985D006CB81E;
-			remoteInfo = "ios-experiments";
+			remoteInfo = "ios-examples";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		F950A5C01D542A4200C57840 /* KeyHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyHelper.swift; sourceTree = "<group>"; };
 		F950A5C21D542CF900C57840 /* Keys.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
-		F9B20AF91D4E985D006CB81E /* ios-experiments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-experiments.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9B20AF91D4E985D006CB81E /* ios-examples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-examples.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B20AFC1D4E985D006CB81E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F9B20AFF1D4E985D006CB81E /* ios_experiments.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ios_experiments.xcdatamodel; sourceTree = "<group>"; };
+		F9B20AFF1D4E985D006CB81E /* ios_examples.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ios_examples.xcdatamodel; sourceTree = "<group>"; };
 		F9B20B011D4E985D006CB81E /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		F9B20B031D4E985D006CB81E /* HeartRateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateViewController.swift; sourceTree = "<group>"; };
 		F9B20B061D4E985D006CB81E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F9B20B081D4E985D006CB81E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9B20B0B1D4E985D006CB81E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9B20B0D1D4E985D006CB81E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9B20B121D4E985D006CB81E /* ios-experimentsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-experimentsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F9B20B161D4E985D006CB81E /* ios_experimentsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_experimentsTests.swift; sourceTree = "<group>"; };
+		F9B20B121D4E985D006CB81E /* ios-examplesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-examplesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9B20B161D4E985D006CB81E /* ios_examplesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_examplesTests.swift; sourceTree = "<group>"; };
 		F9B20B181D4E985D006CB81E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9B20B1D1D4E985D006CB81E /* ios-experimentsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-experimentsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F9B20B211D4E985D006CB81E /* ios_experimentsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_experimentsUITests.swift; sourceTree = "<group>"; };
+		F9B20B1D1D4E985D006CB81E /* ios-examplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-examplesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9B20B211D4E985D006CB81E /* ios_examplesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_examplesUITests.swift; sourceTree = "<group>"; };
 		F9B20B231D4E985D006CB81E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +97,7 @@
 				F950A5C21D542CF900C57840 /* Keys.plist */,
 				F9B20B081D4E985D006CB81E /* Assets.xcassets */,
 				F9B20B0D1D4E985D006CB81E /* Info.plist */,
-				F9B20AFE1D4E985D006CB81E /* ios_experiments.xcdatamodeld */,
+				F9B20AFE1D4E985D006CB81E /* ios_examples.xcdatamodeld */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -113,9 +113,9 @@
 		F9B20AF01D4E985D006CB81E = {
 			isa = PBXGroup;
 			children = (
-				F9B20AFB1D4E985D006CB81E /* ios-experiments */,
-				F9B20B151D4E985D006CB81E /* ios-experimentsTests */,
-				F9B20B201D4E985D006CB81E /* ios-experimentsUITests */,
+				F9B20AFB1D4E985D006CB81E /* ios-examples */,
+				F9B20B151D4E985D006CB81E /* ios-examplesTests */,
+				F9B20B201D4E985D006CB81E /* ios-examplesUITests */,
 				F9B20AFA1D4E985D006CB81E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -123,14 +123,14 @@
 		F9B20AFA1D4E985D006CB81E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F9B20AF91D4E985D006CB81E /* ios-experiments.app */,
-				F9B20B121D4E985D006CB81E /* ios-experimentsTests.xctest */,
-				F9B20B1D1D4E985D006CB81E /* ios-experimentsUITests.xctest */,
+				F9B20AF91D4E985D006CB81E /* ios-examples.app */,
+				F9B20B121D4E985D006CB81E /* ios-examplesTests.xctest */,
+				F9B20B1D1D4E985D006CB81E /* ios-examplesUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F9B20AFB1D4E985D006CB81E /* ios-experiments */ = {
+		F9B20AFB1D4E985D006CB81E /* ios-examples */ = {
 			isa = PBXGroup;
 			children = (
 				F9B20AFC1D4E985D006CB81E /* AppDelegate.swift */,
@@ -140,33 +140,33 @@
 				F94EA0951D4E9B2F0072243D /* Supporting Files */,
 				F950A5C01D542A4200C57840 /* KeyHelper.swift */,
 			);
-			path = "ios-experiments";
+			path = "ios-examples";
 			sourceTree = "<group>";
 		};
-		F9B20B151D4E985D006CB81E /* ios-experimentsTests */ = {
+		F9B20B151D4E985D006CB81E /* ios-examplesTests */ = {
 			isa = PBXGroup;
 			children = (
-				F9B20B161D4E985D006CB81E /* ios_experimentsTests.swift */,
+				F9B20B161D4E985D006CB81E /* ios_examplesTests.swift */,
 				F9B20B181D4E985D006CB81E /* Info.plist */,
 			);
-			path = "ios-experimentsTests";
+			path = "ios-examplesTests";
 			sourceTree = "<group>";
 		};
-		F9B20B201D4E985D006CB81E /* ios-experimentsUITests */ = {
+		F9B20B201D4E985D006CB81E /* ios-examplesUITests */ = {
 			isa = PBXGroup;
 			children = (
-				F9B20B211D4E985D006CB81E /* ios_experimentsUITests.swift */,
+				F9B20B211D4E985D006CB81E /* ios_examplesUITests.swift */,
 				F9B20B231D4E985D006CB81E /* Info.plist */,
 			);
-			path = "ios-experimentsUITests";
+			path = "ios-examplesUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F9B20AF81D4E985D006CB81E /* ios-experiments */ = {
+		F9B20AF81D4E985D006CB81E /* ios-examples */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9B20B261D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experiments" */;
+			buildConfigurationList = F9B20B261D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examples" */;
 			buildPhases = (
 				F9B20AF51D4E985D006CB81E /* Sources */,
 				F9B20AF61D4E985D006CB81E /* Frameworks */,
@@ -176,14 +176,14 @@
 			);
 			dependencies = (
 			);
-			name = "ios-experiments";
-			productName = "ios-experiments";
-			productReference = F9B20AF91D4E985D006CB81E /* ios-experiments.app */;
+			name = "ios-examples";
+			productName = "ios-examples";
+			productReference = F9B20AF91D4E985D006CB81E /* ios-examples.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F9B20B111D4E985D006CB81E /* ios-experimentsTests */ = {
+		F9B20B111D4E985D006CB81E /* ios-examplesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9B20B291D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experimentsTests" */;
+			buildConfigurationList = F9B20B291D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examplesTests" */;
 			buildPhases = (
 				F9B20B0E1D4E985D006CB81E /* Sources */,
 				F9B20B0F1D4E985D006CB81E /* Frameworks */,
@@ -194,14 +194,14 @@
 			dependencies = (
 				F9B20B141D4E985D006CB81E /* PBXTargetDependency */,
 			);
-			name = "ios-experimentsTests";
-			productName = "ios-experimentsTests";
-			productReference = F9B20B121D4E985D006CB81E /* ios-experimentsTests.xctest */;
+			name = "ios-examplesTests";
+			productName = "ios-examplesTests";
+			productReference = F9B20B121D4E985D006CB81E /* ios-examplesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F9B20B1C1D4E985D006CB81E /* ios-experimentsUITests */ = {
+		F9B20B1C1D4E985D006CB81E /* ios-examplesUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9B20B2C1D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experimentsUITests" */;
+			buildConfigurationList = F9B20B2C1D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examplesUITests" */;
 			buildPhases = (
 				F9B20B191D4E985D006CB81E /* Sources */,
 				F9B20B1A1D4E985D006CB81E /* Frameworks */,
@@ -212,9 +212,9 @@
 			dependencies = (
 				F9B20B1F1D4E985D006CB81E /* PBXTargetDependency */,
 			);
-			name = "ios-experimentsUITests";
-			productName = "ios-experimentsUITests";
-			productReference = F9B20B1D1D4E985D006CB81E /* ios-experimentsUITests.xctest */;
+			name = "ios-examplesUITests";
+			productName = "ios-examplesUITests";
+			productReference = F9B20B1D1D4E985D006CB81E /* ios-examplesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -243,7 +243,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F9B20AF41D4E985D006CB81E /* Build configuration list for PBXProject "ios-experiments" */;
+			buildConfigurationList = F9B20AF41D4E985D006CB81E /* Build configuration list for PBXProject "ios-examples" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -256,9 +256,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F9B20AF81D4E985D006CB81E /* ios-experiments */,
-				F9B20B111D4E985D006CB81E /* ios-experimentsTests */,
-				F9B20B1C1D4E985D006CB81E /* ios-experimentsUITests */,
+				F9B20AF81D4E985D006CB81E /* ios-examples */,
+				F9B20B111D4E985D006CB81E /* ios-examplesTests */,
+				F9B20B1C1D4E985D006CB81E /* ios-examplesUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -296,7 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9B20B001D4E985D006CB81E /* ios_experiments.xcdatamodeld in Sources */,
+				F9B20B001D4E985D006CB81E /* ios_examples.xcdatamodeld in Sources */,
 				F950A5C11D542A4200C57840 /* KeyHelper.swift in Sources */,
 				F9B20AFD1D4E985D006CB81E /* AppDelegate.swift in Sources */,
 				F9B20B021D4E985D006CB81E /* MainViewController.swift in Sources */,
@@ -308,7 +308,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9B20B171D4E985D006CB81E /* ios_experimentsTests.swift in Sources */,
+				F9B20B171D4E985D006CB81E /* ios_examplesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,7 +316,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9B20B221D4E985D006CB81E /* ios_experimentsUITests.swift in Sources */,
+				F9B20B221D4E985D006CB81E /* ios_examplesUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,12 +325,12 @@
 /* Begin PBXTargetDependency section */
 		F9B20B141D4E985D006CB81E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F9B20AF81D4E985D006CB81E /* ios-experiments */;
+			target = F9B20AF81D4E985D006CB81E /* ios-examples */;
 			targetProxy = F9B20B131D4E985D006CB81E /* PBXContainerItemProxy */;
 		};
 		F9B20B1F1D4E985D006CB81E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F9B20AF81D4E985D006CB81E /* ios-experiments */;
+			target = F9B20AF81D4E985D006CB81E /* ios-examples */;
 			targetProxy = F9B20B1E1D4E985D006CB81E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -444,9 +444,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				INFOPLIST_FILE = "ios-experiments/Info.plist";
+				INFOPLIST_FILE = "ios-examples/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experiments";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examples";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -459,9 +459,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				INFOPLIST_FILE = "ios-experiments/Info.plist";
+				INFOPLIST_FILE = "ios-examples/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experiments";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examples";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -472,11 +472,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "ios-experimentsTests/Info.plist";
+				INFOPLIST_FILE = "ios-examplesTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experimentsTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examplesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-experiments.app/ios-experiments";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-examples.app/ios-examples";
 			};
 			name = Debug;
 		};
@@ -484,40 +484,40 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "ios-experimentsTests/Info.plist";
+				INFOPLIST_FILE = "ios-examplesTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experimentsTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examplesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-experiments.app/ios-experiments";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-examples.app/ios-examples";
 			};
 			name = Release;
 		};
 		F9B20B2D1D4E985D006CB81E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "ios-experimentsUITests/Info.plist";
+				INFOPLIST_FILE = "ios-examplesUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experimentsUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examplesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "ios-experiments";
+				TEST_TARGET_NAME = "ios-examples";
 			};
 			name = Debug;
 		};
 		F9B20B2E1D4E985D006CB81E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "ios-experimentsUITests/Info.plist";
+				INFOPLIST_FILE = "ios-examplesUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-experimentsUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yoeunpen.ios-examplesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "ios-experiments";
+				TEST_TARGET_NAME = "ios-examples";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F9B20AF41D4E985D006CB81E /* Build configuration list for PBXProject "ios-experiments" */ = {
+		F9B20AF41D4E985D006CB81E /* Build configuration list for PBXProject "ios-examples" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B20B241D4E985D006CB81E /* Debug */,
@@ -526,7 +526,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9B20B261D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experiments" */ = {
+		F9B20B261D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examples" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B20B271D4E985D006CB81E /* Debug */,
@@ -535,7 +535,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9B20B291D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experimentsTests" */ = {
+		F9B20B291D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examplesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B20B2A1D4E985D006CB81E /* Debug */,
@@ -544,7 +544,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9B20B2C1D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-experimentsUITests" */ = {
+		F9B20B2C1D4E985D006CB81E /* Build configuration list for PBXNativeTarget "ios-examplesUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B20B2D1D4E985D006CB81E /* Debug */,
@@ -556,13 +556,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		F9B20AFE1D4E985D006CB81E /* ios_experiments.xcdatamodeld */ = {
+		F9B20AFE1D4E985D006CB81E /* ios_examples.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				F9B20AFF1D4E985D006CB81E /* ios_experiments.xcdatamodel */,
+				F9B20AFF1D4E985D006CB81E /* ios_examples.xcdatamodel */,
 			);
-			currentVersion = F9B20AFF1D4E985D006CB81E /* ios_experiments.xcdatamodel */;
-			path = ios_experiments.xcdatamodeld;
+			currentVersion = F9B20AFF1D4E985D006CB81E /* ios_examples.xcdatamodel */;
+			path = ios_examples.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

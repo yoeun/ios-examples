@@ -1,15 +1,15 @@
 platform :ios, '9.0'
 use_frameworks!
 
-target 'ios-experiments' do
+target 'ios-examples' do
    
 end
 
-target 'ios-experimentsTests' do
+target 'ios-examplesTests' do
 
 end
 
-target 'ios-experimentsUITests' do
+target 'ios-examplesUITests' do
 
 end
 
