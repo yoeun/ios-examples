@@ -1,4 +1,4 @@
-# iOS Experiments
+# iOS Examples
 
 Various iOS examples in a single app
 
