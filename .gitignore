@@ -8,6 +8,8 @@ Keys.plist
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+main.xcworkspace
+
 ## Build generated
 build/
 DerivedData/
