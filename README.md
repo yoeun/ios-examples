@@ -16,3 +16,11 @@ Various iOS examples in a single app
   * Map
   * Render GPX data
   * GPS tracking
+* Camera
+  * Take photo
+  * Manual settings
+  * Custom camera
+* Photos
+  * Filters & curves
+  * Rotate & crop
+  * Brightness & contrast
